@@ -1,0 +1,120 @@
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.andylee.myapplication_bus_metro.fragment_bus"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:id="@+id/frag_bus"
+    android:gravity="center"
+    android:layout_gravity="right"
+    >
+    <!-- TODO: Update blank fragment layout -->
+    <info.hoang8f.android.segmented.SegmentedGroup
+        xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/segmented2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        segmentedgroup:layout_constraintBottom_toBottomOf="parent"
+        segmentedgroup:layout_constraintLeft_toLeftOf="parent"
+        segmentedgroup:layout_constraintRight_toRightOf="parent"
+        segmentedgroup:layout_constraintTop_toTopOf="parent"
+        segmentedgroup:layout_constraintVertical_bias="0.497"
+        segmentedgroup:sc_border_width="2dp"
+        segmentedgroup:sc_corner_radius="10dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp">
+
+        <RadioButton
+            android:id="@+id/button21"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="捷運紅線"
+            android:textSize="30sp"
+            android:clickable="true"/>
+
+        <RadioButton
+            android:id="@+id/button22"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="捷運藍線"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button23"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="捷運棕線"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button24"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="捷運綠線"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button25"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="捷運橘線"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button26"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="一般"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button27"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="小型公車"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button28"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="幹線公車"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button29"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="低地板公車"
+            android:textSize="30sp"/>
+
+        <RadioButton
+            android:id="@+id/button30"
+            style="@style/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="公路客運"
+            android:textSize="30sp"/>
+    </info.hoang8f.android.segmented.SegmentedGroup>
+
+</android.support.constraint.ConstraintLayout>

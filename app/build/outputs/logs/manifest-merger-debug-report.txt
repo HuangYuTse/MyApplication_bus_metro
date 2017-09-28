@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\andylee\.android\build-cache\eec85d76f99cfab5a47d2b54781ea849af04ce53\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andylee\.android\build-cache\5e8edd304fb907ce22c048b5bd6e0810a5071ea4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\andylee\.android\build-cache\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\andylee\.android\build-cache\2b2872e6343284017bf672b68c6ad7e774dc39a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\andylee\.android\build-cache\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\andylee\.android\build-cache\7fbaceebb46506662b5420d7730b263ccf0dbc10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\andylee\.android\build-cache\87839d4db3c87c469ae3dc3c92ab9fb9d6d8c59d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\andylee\.android\build-cache\c08ff62a7d9d213f10735d8d8b0dea62bacf5c5e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\andylee\.android\build-cache\4e554aab29c39f937ea105bc22adf5540143166b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\d10116ce2119137472663907ddb92c56506481f2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\7f5039a52b264377a1aaf82235ff99505c43dda9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\andylee\.android\build-cache\bb8a613c5499a16eee0a935924024716a8ff6b7f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\andylee\.android\build-cache\6491ca998ad7795dda3fa503b592bc74166796f9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\andylee\.android\build-cache\a0fa060045d67c117fb0330ccccd3f33949d9258\output\AndroidManifest.xml:29:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] C:\Users\andylee\.android\build-cache\c4e1a4b43d44751f147eb197c91651796f2e7cba\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:7:9-40
+	android:theme
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.andylee.myapplication_bus_metro.MainActivity
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\andylee\.android\build-cache\eec85d76f99cfab5a47d2b54781ea849af04ce53\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andylee\.android\build-cache\5e8edd304fb907ce22c048b5bd6e0810a5071ea4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.1] C:\Users\andylee\.android\build-cache\93b2c877d4b7cabc3630c1c8b13e1bb47f4683da\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\andylee\.android\build-cache\d015228d7afb8bd8b9479e9ceb9d8303fa27a002\output\AndroidManifest.xml:5:5-43
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\andylee\.android\build-cache\6736a3295d67472c4f1e758aa4c6eeeaa88a5f0b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\andylee\.android\build-cache\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\andylee\.android\build-cache\2b2872e6343284017bf672b68c6ad7e774dc39a7\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\andylee\.android\build-cache\d39b440e0ad80fbf67c8c9176c0e4a5608528547\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\andylee\.android\build-cache\922da276f401495fbc41e48190e4cf606225f664\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\andylee\.android\build-cache\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\andylee\.android\build-cache\7fbaceebb46506662b5420d7730b263ccf0dbc10\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\andylee\.android\build-cache\87839d4db3c87c469ae3dc3c92ab9fb9d6d8c59d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\andylee\.android\build-cache\c08ff62a7d9d213f10735d8d8b0dea62bacf5c5e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\andylee\.android\build-cache\4e554aab29c39f937ea105bc22adf5540143166b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\d10116ce2119137472663907ddb92c56506481f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\7f5039a52b264377a1aaf82235ff99505c43dda9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\andylee\.android\build-cache\bb8a613c5499a16eee0a935924024716a8ff6b7f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\andylee\.android\build-cache\6491ca998ad7795dda3fa503b592bc74166796f9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\andylee\.android\build-cache\a0fa060045d67c117fb0330ccccd3f33949d9258\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.ms-square:expandableTextView:0.1.4] C:\Users\andylee\.android\build-cache\c4e1a4b43d44751f147eb197c91651796f2e7cba\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\MyApplication\MyApplication_bus_metro\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\andylee\.android\build-cache\eec85d76f99cfab5a47d2b54781ea849af04ce53\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\andylee\.android\build-cache\2b2872e6343284017bf672b68c6ad7e774dc39a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\andylee\.android\build-cache\d39b440e0ad80fbf67c8c9176c0e4a5608528547\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\andylee\.android\build-cache\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\andylee\.android\build-cache\7fbaceebb46506662b5420d7730b263ccf0dbc10\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\andylee\.android\build-cache\87839d4db3c87c469ae3dc3c92ab9fb9d6d8c59d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\andylee\.android\build-cache\c08ff62a7d9d213f10735d8d8b0dea62bacf5c5e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\andylee\.android\build-cache\4e554aab29c39f937ea105bc22adf5540143166b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\d10116ce2119137472663907ddb92c56506481f2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\andylee\.android\build-cache\7f5039a52b264377a1aaf82235ff99505c43dda9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\andylee\.android\build-cache\6491ca998ad7795dda3fa503b592bc74166796f9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\andylee\.android\build-cache\a0fa060045d67c117fb0330ccccd3f33949d9258\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\andylee\.android\build-cache\bb55f0ae0ccd5709cad87646e39138ff5c463acf\output\AndroidManifest.xml:26:9-47

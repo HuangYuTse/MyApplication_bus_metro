@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:background="#90caf9"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/id_number_metro"
+        android:text="id_number"
+        android:textSize="10dp"
+        android:textColor="#3f51b5"
+        />
+
+    <TextView
+        android:id="@+id/station_status_metro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="station"
+        android:textColor="#00897b"
+        android:background="#ff7043"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/id_number_metro"
+        android:layout_toEndOf="@+id/id_number_metro"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/destination_metro"
+        android:text="destination"
+        android:textSize="16dp"
+        android:textColor="#ff9100"
+        android:background="#01579b"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@+id/station_status_metro"
+        android:gravity="center"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">淡江i巴士捷運</string>
+
+    <string name="navigation_drawer_open">開啟探索櫃</string>
+    <string name="navigation_drawer_close">關閉探索櫃</string>
+    <string name="action_settings">設定</string>
+    <string name="navi_name">臺北公車資訊</string>
+    <string name="button01_text01">開始解釋</string>
+    <string name="textView2">請選擇你要的路線</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好 blank fragment metro</string>
+    <string name="mrt">捷運</string>
+    <string name="route">路線</string>
+    <string name="refresh_button">重整</string>
+    <string name="orange">橘線</string>
+    <string name="blue">藍線</string>
+    <string name="brown">棕線</string>
+    <string name="green">綠線</string>
+    <string name="red">紅線</string>
+    <string name="refresh_content">更新</string>
+    <string name="updating">更新中</string>
+    <string name="response">柯P 不回應了</string>
+    <string name="connecting">連結到...柯P，請稍候..</string>
+    <string name="sec_remaining">剩餘時間：</string>
+    <string name="refreshing">重整中</string>
+    <string name="please_select_route">請選擇路線，這不合理!</string>
+    <string name="Time_elapse">時間流逝</string>
+    <string name="bus_information">巴士資訊</string>
+    <string name="metro_info">捷運資訊</string>
+    <string name="Close_apps">關閉應用程式</string>
+    <string name="close">你確定要關閉這個應用?</string>
+</resources>

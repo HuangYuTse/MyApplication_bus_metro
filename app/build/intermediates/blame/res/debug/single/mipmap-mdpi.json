@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_refresh_white_24dp.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_directions_subway_black_24dp.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_directions_subway_black_24dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_search_black_24dp.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_directions_bus_black_24dp.png",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\mipmap-mdpi\\ic_directions_bus_black_24dp.png"
+    }
+]

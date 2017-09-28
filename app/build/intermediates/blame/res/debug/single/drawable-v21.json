@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\bb55f0ae0ccd5709cad87646e39138ff5c463acf\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\bb55f0ae0ccd5709cad87646e39138ff5c463acf\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\bb55f0ae0ccd5709cad87646e39138ff5c463acf\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\bb55f0ae0ccd5709cad87646e39138ff5c463acf\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\c4cfc71e2c6ddedebd6720b006eb0522e0014b19\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\psts_background_tab.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\bb8a613c5499a16eee0a935924024716a8ff6b7f\\output\\res\\drawable-v21\\psts_background_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\andylee\\.android\\build-cache\\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    }
+]

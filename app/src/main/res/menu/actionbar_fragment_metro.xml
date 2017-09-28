@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.andylee.myapplication_bus_metro.MainActivity"
+    >
+    <item
+        android:id="@+id/actionbar_button_refresh"
+        android:icon="@mipmap/ic_refresh_white_24dp"
+        android:title="@string/refresh_content"
+        app:showAsAction="always"
+        />
+
+</menu>

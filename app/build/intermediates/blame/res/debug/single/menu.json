@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionbar_fragment_metro.xml",
+        "source": "D:\\workspace\\MyApplication\\MyApplication_bus_metro\\app\\src\\main\\res\\menu\\actionbar_fragment_metro.xml"
+    }
+]

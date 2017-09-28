@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.android\build-cache\bb8a613c5499a16eee0a935924024716a8ff6b7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a889c98eedf85a7d9b77340e507ab9b60068e136">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\classes_7d995a888aec9a95b7b3d39189daf55073836ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.android\build-cache\922da276f401495fbc41e48190e4cf606225f664\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a5cbc42192d2afde319e4babe59bf8e41a49d35">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\classes_766de9fa9b1646ab7670b0cc307f2a0070a91c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.android\build-cache\0a6b1ab0408757a25f00a81775b3eb7bea72ed2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9715585867480e9916e0ce284ac52697678afe4c">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\classes_b186376be941437cdc36771cb8d6bf08205aa44f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="653562ec9137eca4f6620c3e61ac5f7594d998a7">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b975be0590c49ac240b859fee9951bcea14b2bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_34767805e9f4c83bf819ff21b6b9465a4efdbc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.android\build-cache\2b2872e6343284017bf672b68c6ad7e774dc39a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\classes_a69a82c1c298b875e0406570e24472b4b72e3ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andylee\.android\build-cache\c4e1a4b43d44751f147eb197c91651796f2e7cba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b305cfd7ae732d7c146fe3046aea90f877c3892b">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\pre-dexed\debug\classes_363a7ac33c71455e4a348f64c6eb34d79d913c40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\workspace\MyApplication\MyApplication_bus_metro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_00e8a933efea65cd282bc84bd3fc3114ed11e4d9\classes.dex" />
+    </item>
+
+</items>

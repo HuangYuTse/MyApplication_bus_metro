@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tamkung i bus metro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="navi_name">Taipei bus info</string>
+    <string name="button01_text01">start to parsing</string>
+    <string name="textView2">Please select the route you want</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment metro</string>
+    <string name="mrt">mrt</string>
+    <string name="route">route</string>
+    <string name="refresh_button">refresh</string>
+    <string name="orange">orange</string>
+    <string name="blue">blue</string>
+    <string name="brown">brown</string>
+    <string name="green">green</string>
+    <string name="red">red</string>
+    <string name="refresh_content">update</string>
+    <string name="updating">updating</string>
+    <string name="response">柯 p did not response!</string>
+    <string name="connecting">Connecting... to 柯P, please wait..</string>
+    <string name="sec_remaining">seconds remaining: </string>
+    <string name="refreshing">refreshing</string>
+    <string name="please_select_route">Please select the route, it dose not make any sense!!</string>
+    <string name="Time_elapse">Time elapse</string>
+    <string name="bus_information">bus information</string>
+    <string name="metro_info">metro_info</string>
+    <string name="Close_apps">Close apps</string>
+    <string name="close">Are you sure you want to close this activity?</string>
+</resources>
